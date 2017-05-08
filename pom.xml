@@ -266,6 +266,8 @@
                                 <id>attach-javadocs</id>
                                 <goals>
                                     <goal>jar</goal>
+				    <goal>cobertura</goal>
+					
                                 </goals>
                             </execution>
                         </executions>
