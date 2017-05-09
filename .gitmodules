@@ -1,0 +1,4 @@
+[submodule "devops"]
+	path = devops
+	url = https://github.com/ruser234/sub.git
+	branch = dev
